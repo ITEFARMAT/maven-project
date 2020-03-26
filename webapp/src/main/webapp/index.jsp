@@ -1,1 +1,1 @@
-<img alt="govno" src="/WEB-INF/1.jpg" style="width: 400px; height: 300px;">
+<img src="/WEB-INF/1.jpg">
