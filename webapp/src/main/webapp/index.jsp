@@ -1,7 +1,1 @@
-Hello World!
-Hello World!
-Hello World!
-Hello World!
-Hello World!
-Hello World!
-Hello World!
+<img alt="govno" src="/WEB-INF/1.jpg" style="width: 400px; height: 300px;">
