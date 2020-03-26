@@ -1,1 +1,1 @@
-<img src="/WEB-INF/1.jpg">
+<img src="/src/main\webapp/WEB-INF/1.jpg">
